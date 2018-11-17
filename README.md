@@ -1,7 +1,8 @@
 # Etherwave
 Etherwave
+
 /*
-This creates a public tradeable fungible token in the Ethereum Blockchain.
+This creates a public tradeable fungible token in the Ethereum Blockcha1in.
 https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs
 
 Unmodified this will create a cryptoasset with a fixed market cap
